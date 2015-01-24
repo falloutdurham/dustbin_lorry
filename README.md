@@ -6,8 +6,7 @@ DustinLorry: a simple Rack Middleware that dumps information about the Ruby MRI 
 
 Add this line to your application's Gemfile:
 
-```ruby gem 'dustbin_lorry'
-```
+```ruby gem 'dustbin_lorry'```
 
 And then execute:
 
@@ -29,7 +28,7 @@ Add ```use DustbinLorry``` like any other Rack Middleware.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/dustbin_lorry/fork )
+1. Fork it ( https://github.com/falloutdurham/dustbinlorry/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
