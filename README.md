@@ -6,7 +6,7 @@ DustinLorry: a simple Rack Middleware that dumps information about the Ruby MRI 
 
 Add this line to your application's Gemfile:
 
-```ruby gem 'dustbin_lorry'```
+```gem 'dustbin_lorry'```
 
 And then execute:
 
